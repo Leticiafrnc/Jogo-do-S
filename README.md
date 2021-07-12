@@ -1,12 +1,12 @@
  ## Jogo do "S"
- Esse projeto foi desenvolvido à partir dos ensinamentos do professor [Gustavo Guanabara - no Curso em video de JavaScript](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm) foi criado para fortalecer meus aprendizados da aula de DOM e condições no JavaScript. 
+ Esse projeto foi desenvolvido à partir dos ensinamentos do professor [Gustavo Guanabara - no Curso em video de JavaScript](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm) foi criado para fortalecer meus aprendizados da aula de DOM e condições compostas no JavaScript. 
 
 <h4 align="center"> 
 🚀 Finalizado
 </h4>
 
 ### 📕 Aprendizados
-- Aprendi mais sobre condições simples no js (if e else)
+- Aprendi mais sobre condições compostas no js (if e else)
 - Pratiquei também a questão do Display Flex no css
 
 ### 🏁 Instalação
