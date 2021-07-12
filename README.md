@@ -1,2 +1,2 @@
-# Jogo-S-ou-SS
+# Jogo do "S"
 ## ... 🚧 Em Construção 🚧... 
